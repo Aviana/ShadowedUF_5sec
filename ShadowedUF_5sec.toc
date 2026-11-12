@@ -1,4 +1,4 @@
-## Interface: 120000,120001,120005,120007,120100,120105,120107,16001
+## Interface: 16001
 ## Title: Shadowed Unit Frames - 5 Second Rule Indicator
 ## Notes: Show a five second rule on the player frame in SUF
 ## Author: Aviana
